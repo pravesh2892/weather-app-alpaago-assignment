@@ -1,0 +1,32 @@
+.user-container {
+    background-image: url('https://images.unsplash.com/photo-1528460033278-a6ba57020470?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+
+  }
+  
+  .user-table{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .user-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .user-table th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .user-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .user-table tr:hover {
+    background-color: #f5f5f5;
+  }
